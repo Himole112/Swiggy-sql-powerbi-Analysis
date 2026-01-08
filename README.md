@@ -7,10 +7,10 @@ restaurant performance, and pricing insights.
 
 ## Power BI Dashboard Preview
 
-![Revenue KPI](powerbi/revenue_kpi.png)
-![Monthly Trend](powerbi/monthly_trend.png)
-![Top Restaurants](powerbi/top_restaurants.png)
-![City Comparison](powerbi/city_comparison.png)
+![Revenue KPI](revenue_kpi.png)
+![Monthly Trend](monthly_trend.png)
+![Top Restaurants](top_restaurants.png)
+![City Comparison](city_comparison.png)
 
 ## Tools Used
 - SQL Server (T-SQL)
