@@ -5,6 +5,13 @@
 This project analyzes Swiggy food delivery data using SQL Server and Power BI to uncover sales trends,
 restaurant performance, and pricing insights.
 
+## Power BI Dashboard Preview
+
+![Revenue KPI](powerbi/revenue_kpi.png)
+![Monthly Trend](powerbi/monthly_trend.png)
+![Top Restaurants](powerbi/top_restaurants.png)
+![City Comparison](powerbi/city_comparison.png)
+
 ## Tools Used
 - SQL Server (T-SQL)
 - Power BI
